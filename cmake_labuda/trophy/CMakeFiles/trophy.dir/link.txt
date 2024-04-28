@@ -1,0 +1,1 @@
+/usr/bin/c++ -std=c++20 -pthread CMakeFiles/trophy.dir/main.cpp.o -o trophy

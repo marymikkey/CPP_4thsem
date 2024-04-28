@@ -1,0 +1,74 @@
+[
+{
+  "directory": "/home/mary/Desktop/MIPT/CPP_4thsem/cmake_labuda/user-mgmt",
+  "command": "/usr/bin/c++  -I/home/mary/Desktop/MIPT/CPP_4thsem/labuda/user-mgmt/include -std=c++20 -o CMakeFiles/user-mgmt-lib.dir/mgmt.cpp.o -c /home/mary/Desktop/MIPT/CPP_4thsem/labuda/user-mgmt/mgmt.cpp",
+  "file": "/home/mary/Desktop/MIPT/CPP_4thsem/labuda/user-mgmt/mgmt.cpp",
+  "output": "user-mgmt/CMakeFiles/user-mgmt-lib.dir/mgmt.cpp.o"
+},
+{
+  "directory": "/home/mary/Desktop/MIPT/CPP_4thsem/cmake_labuda/user-mgmt",
+  "command": "/usr/bin/c++  -I/home/mary/Desktop/MIPT/CPP_4thsem/labuda/user-mgmt/include -std=c++20 -o CMakeFiles/user-mgmt.dir/cli.cpp.o -c /home/mary/Desktop/MIPT/CPP_4thsem/labuda/user-mgmt/cli.cpp",
+  "file": "/home/mary/Desktop/MIPT/CPP_4thsem/labuda/user-mgmt/cli.cpp",
+  "output": "user-mgmt/CMakeFiles/user-mgmt.dir/cli.cpp.o"
+},
+{
+  "directory": "/home/mary/Desktop/MIPT/CPP_4thsem/cmake_labuda/type-list",
+  "command": "/usr/bin/c++   -std=c++20 -o CMakeFiles/type-list.dir/main.cpp.o -c /home/mary/Desktop/MIPT/CPP_4thsem/labuda/type-list/main.cpp",
+  "file": "/home/mary/Desktop/MIPT/CPP_4thsem/labuda/type-list/main.cpp",
+  "output": "type-list/CMakeFiles/type-list.dir/main.cpp.o"
+},
+{
+  "directory": "/home/mary/Desktop/MIPT/CPP_4thsem/cmake_labuda/type-map",
+  "command": "/usr/bin/c++   -std=c++20 -o CMakeFiles/type-map.dir/main.cpp.o -c /home/mary/Desktop/MIPT/CPP_4thsem/labuda/type-map/main.cpp",
+  "file": "/home/mary/Desktop/MIPT/CPP_4thsem/labuda/type-map/main.cpp",
+  "output": "type-map/CMakeFiles/type-map.dir/main.cpp.o"
+},
+{
+  "directory": "/home/mary/Desktop/MIPT/CPP_4thsem/cmake_labuda/logging",
+  "command": "/usr/bin/c++   -std=c++20 -o CMakeFiles/logging.dir/main.cpp.o -c /home/mary/Desktop/MIPT/CPP_4thsem/labuda/logging/main.cpp",
+  "file": "/home/mary/Desktop/MIPT/CPP_4thsem/labuda/logging/main.cpp",
+  "output": "logging/CMakeFiles/logging.dir/main.cpp.o"
+},
+{
+  "directory": "/home/mary/Desktop/MIPT/CPP_4thsem/cmake_labuda/logging",
+  "command": "/usr/bin/c++   -std=c++20 -o CMakeFiles/logging.dir/logging.cpp.o -c /home/mary/Desktop/MIPT/CPP_4thsem/labuda/logging/logging.cpp",
+  "file": "/home/mary/Desktop/MIPT/CPP_4thsem/labuda/logging/logging.cpp",
+  "output": "logging/CMakeFiles/logging.dir/logging.cpp.o"
+},
+{
+  "directory": "/home/mary/Desktop/MIPT/CPP_4thsem/cmake_labuda/trophy",
+  "command": "/usr/bin/c++ -DWXUSINGDLL -D_FILE_OFFSET_BITS=64 -D__WXGTK__ -isystem /usr/lib/x86_64-linux-gnu/wx/include/gtk3-unicode-3.0 -isystem /usr/include/wx-3.0 -std=c++20 -pthread -o CMakeFiles/trophy.dir/main.cpp.o -c /home/mary/Desktop/MIPT/CPP_4thsem/labuda/trophy/main.cpp",
+  "file": "/home/mary/Desktop/MIPT/CPP_4thsem/labuda/trophy/main.cpp",
+  "output": "trophy/CMakeFiles/trophy.dir/main.cpp.o"
+},
+{
+  "directory": "/home/mary/Desktop/MIPT/CPP_4thsem/cmake_labuda/trophy",
+  "command": "/usr/bin/c++ -DWXUSINGDLL -D_FILE_OFFSET_BITS=64 -D__WXGTK__ -isystem /usr/lib/x86_64-linux-gnu/wx/include/gtk3-unicode-3.0 -isystem /usr/include/wx-3.0 -std=c++20 -pthread -o CMakeFiles/trophy_wx.dir/main_wx.cpp.o -c /home/mary/Desktop/MIPT/CPP_4thsem/labuda/trophy/main_wx.cpp",
+  "file": "/home/mary/Desktop/MIPT/CPP_4thsem/labuda/trophy/main_wx.cpp",
+  "output": "trophy/CMakeFiles/trophy_wx.dir/main_wx.cpp.o"
+},
+{
+  "directory": "/home/mary/Desktop/MIPT/CPP_4thsem/cmake_labuda/mix-in",
+  "command": "/usr/bin/c++   -std=c++20 -o CMakeFiles/mixin.dir/main.cpp.o -c /home/mary/Desktop/MIPT/CPP_4thsem/labuda/mix-in/main.cpp",
+  "file": "/home/mary/Desktop/MIPT/CPP_4thsem/labuda/mix-in/main.cpp",
+  "output": "mix-in/CMakeFiles/mixin.dir/main.cpp.o"
+},
+{
+  "directory": "/home/mary/Desktop/MIPT/CPP_4thsem/cmake_labuda/bridge-set",
+  "command": "/usr/bin/c++   -std=c++20 -o CMakeFiles/bridge-set.dir/main.cpp.o -c /home/mary/Desktop/MIPT/CPP_4thsem/labuda/bridge-set/main.cpp",
+  "file": "/home/mary/Desktop/MIPT/CPP_4thsem/labuda/bridge-set/main.cpp",
+  "output": "bridge-set/CMakeFiles/bridge-set.dir/main.cpp.o"
+},
+{
+  "directory": "/home/mary/Desktop/MIPT/CPP_4thsem/cmake_labuda/bridge-set",
+  "command": "/usr/bin/c++   -std=c++20 -o CMakeFiles/bridge-set.dir/set.cpp.o -c /home/mary/Desktop/MIPT/CPP_4thsem/labuda/bridge-set/set.cpp",
+  "file": "/home/mary/Desktop/MIPT/CPP_4thsem/labuda/bridge-set/set.cpp",
+  "output": "bridge-set/CMakeFiles/bridge-set.dir/set.cpp.o"
+},
+{
+  "directory": "/home/mary/Desktop/MIPT/CPP_4thsem/cmake_labuda/expression-factory",
+  "command": "/usr/bin/c++   -std=c++20 -o CMakeFiles/expression-factory.dir/main.cpp.o -c /home/mary/Desktop/MIPT/CPP_4thsem/labuda/expression-factory/main.cpp",
+  "file": "/home/mary/Desktop/MIPT/CPP_4thsem/labuda/expression-factory/main.cpp",
+  "output": "expression-factory/CMakeFiles/expression-factory.dir/main.cpp.o"
+}
+]

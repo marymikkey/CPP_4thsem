@@ -1,0 +1,1 @@
+/usr/bin/c++ -std=c++20 CMakeFiles/logging.dir/main.cpp.o CMakeFiles/logging.dir/logging.cpp.o -o logging

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libuser-mgmt-lib.a "CMakeFiles/user-mgmt-lib.dir/mgmt.cpp.o"
+/usr/bin/ranlib libuser-mgmt-lib.a

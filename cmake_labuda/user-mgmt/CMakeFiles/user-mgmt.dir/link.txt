@@ -1,0 +1,1 @@
+/usr/bin/c++ -std=c++20 "CMakeFiles/user-mgmt.dir/cli.cpp.o" -o user-mgmt  libuser-mgmt-lib.a -lsqlite3

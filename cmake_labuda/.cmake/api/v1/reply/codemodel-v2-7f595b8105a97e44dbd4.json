@@ -1,0 +1,269 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					],
+					"jsonFile" : "directory-.-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "user-mgmt",
+					"jsonFile" : "directory-user-mgmt-b162c874a24ada9f8ea7.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "user-mgmt",
+					"targetIndexes" : 
+					[
+						8,
+						9
+					]
+				},
+				{
+					"build" : "type-list",
+					"jsonFile" : "directory-type-list-63228e8cf96a14f40d6e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "type-list",
+					"targetIndexes" : 
+					[
+						6
+					]
+				},
+				{
+					"build" : "type-map",
+					"jsonFile" : "directory-type-map-7d0775a765b892f78480.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "type-map",
+					"targetIndexes" : 
+					[
+						7
+					]
+				},
+				{
+					"build" : "logging",
+					"jsonFile" : "directory-logging-ca8d05a5040565869f42.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "logging",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "trophy",
+					"jsonFile" : "directory-trophy-b4410233bf7bd02f356e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "trophy",
+					"targetIndexes" : 
+					[
+						4,
+						5
+					]
+				},
+				{
+					"build" : "mix-in",
+					"jsonFile" : "directory-mix-in-69dd96d3d5b4bec26f30.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "mix-in",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "bridge-set",
+					"jsonFile" : "directory-bridge-set-6e329f622ae7d06f4735.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "bridge-set",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "expression-factory",
+					"jsonFile" : "directory-expression-factory-bf06f6e86e41fbbb98f2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "expression-factory",
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					],
+					"name" : "labuda",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 7,
+					"id" : "bridge-set::@70e1f9dfa68d726b26de",
+					"jsonFile" : "target-bridge-set-550e2e129d7dae4d834c.json",
+					"name" : "bridge-set",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "expression-factory::@ad77585699d30cf58760",
+					"jsonFile" : "target-expression-factory-9041efa8b54bd886a387.json",
+					"name" : "expression-factory",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "logging::@adee5afa41a1b3bf60c4",
+					"jsonFile" : "target-logging-795402be264d6dce0d4a.json",
+					"name" : "logging",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "mixin::@da360b631aa8e73ad5cb",
+					"jsonFile" : "target-mixin-b19c073cec3e328d012e.json",
+					"name" : "mixin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "trophy::@624787147f96162b6eb6",
+					"jsonFile" : "target-trophy-9228f51f91350f88aab3.json",
+					"name" : "trophy",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "trophy_wx::@624787147f96162b6eb6",
+					"jsonFile" : "target-trophy_wx-d2977fb33a8dcdac31b2.json",
+					"name" : "trophy_wx",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "type-list::@318c42c435e54319bdb0",
+					"jsonFile" : "target-type-list-5879daab66dc8be00a48.json",
+					"name" : "type-list",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "type-map::@febf05f309df1dca44ca",
+					"jsonFile" : "target-type-map-8e1dfa21b5ec2bc3d097.json",
+					"name" : "type-map",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "user-mgmt::@8beba781a949643fcd49",
+					"jsonFile" : "target-user-mgmt-e28d3c39913995ed45a6.json",
+					"name" : "user-mgmt",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "user-mgmt-lib::@8beba781a949643fcd49",
+					"jsonFile" : "target-user-mgmt-lib-24423d69a7130e1729af.json",
+					"name" : "user-mgmt-lib",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/mary/Desktop/MIPT/CPP_4thsem/cmake_labuda",
+		"source" : "/home/mary/Desktop/MIPT/CPP_4thsem/labuda"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
