@@ -13,6 +13,10 @@ std::ostream& operator<<(std::ostream& os, const Log::Severity& severity) {
     case Log::ERROR:
         os << "ERROR";
         break;
+    case Log::WARNING:
+        os << "WARNING";
+        break;
+
     }
     return os;
 }

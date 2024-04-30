@@ -8,6 +8,7 @@ class Log {
 public:
     enum Severity {
         NORMAL,
+        WARNING,
         ERROR
     };
 
